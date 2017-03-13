@@ -8,4 +8,5 @@ Set appid in the settings.json file for use in the example main function.
 
 # Requirements
 python3
+
 python3-simplejson
